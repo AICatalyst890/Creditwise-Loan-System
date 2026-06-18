@@ -70,5 +70,5 @@ Despite Logistic Regression having a higher overall accuracy (88.0%), **Gaussian
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AICatalyst/Creditwise-Loan-System.git](https://github.com/AICatalyst/Creditwise-Loan-System.git)
+   git clone https://github.com/AICatalyst890/Creditwise-Loan-System.git
    cd Creditwise-Loan-System
