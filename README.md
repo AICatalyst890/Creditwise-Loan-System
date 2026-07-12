@@ -84,7 +84,7 @@ Despite Logistic Regression having a higher overall accuracy (88.0%), **Gaussian
 
 ## 📂 Repository Structure
 
-* `clustering.ipynb` → Full notebook (preprocessing, PCA, clustering, visualization)
-* `loan_ap.csv` → Raw dataset
+* `cwls.ipynb` → Full notebook
+* `loan_approval_data.csv` → Raw dataset
 * `requirements.txt` → Environment dependencies
 * `README.md` → Project overview & documentation
