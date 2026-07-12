@@ -66,9 +66,25 @@ Despite Logistic Regression having a higher overall accuracy (88.0%), **Gaussian
 
 ---
 
-## 🚀 How to Run the Project
-
-1. **Clone the repository:**
+### How to Run the Project
+1. Clone this repository:
    ```bash
    git clone https://github.com/AICatalyst890/Creditwise-Loan-System.git
-   cd Creditwise-Loan-System
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Creditwise-Loan-System.git
+   ```
+3. Open the Jupyter Notebook:
+   ```bash
+   cwls.ipynb
+   ```
+
+---
+
+## 📂 Repository Structure
+
+* `clustering.ipynb` → Full notebook (preprocessing, PCA, clustering, visualization)
+* `loan_ap.csv` → Raw dataset
+* `requirements.txt` → Environment dependencies
+* `README.md` → Project overview & documentation
